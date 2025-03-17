@@ -26,7 +26,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             ConvertWebsiteToAndroidApplicationTheme {
-                WebtoAndroid("https://www.youtube.com/")
+                WebtoAndroid("https://github.com/Arifcy7/Convert-Website-to-Android-Application.git")
             }
         }
     }
